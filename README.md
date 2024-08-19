@@ -4,11 +4,11 @@
 python3 fasttog.py \
 	--query "What is the climate of the area where Pennsylvania Convention Center belong ?" \
 	--entity "Pennsylvania Convention Center" \
-	--llm_api "https://api.xiaoai.plus/v1" \
-	--llm_api_key "sk-dzfmQUflukYgY0mH44EeAe26E0F240DbB6EaD38898Cc405c" \
+	--llm_api "https://xxxx" \
+	--llm_api_key "xxxx" \
 	--llm_model "gpt-4o-mini" \
-	--graph2text_path "/home/liangxj/workspace/FastToG/Model/finetune_t5" \
-	--kg_api "neo4j://127.0.0.1:7687" \
-	--kg_user "neo4j" \
-	--kg_pw "neo4j123" \
+	--graph2text_path "./finetune_t5" \
+	--kg_api "neo4j://xxxx" \
+	--kg_user "xxxx" \
+	--kg_pw "xxxx" \
 	--community_max_size 4
