@@ -1,4 +1,7 @@
 # FastToG: Wider, Deeper and Faster ToG
+## Implement of FastToG
+![illustration of FastToG](https://github.com/dosonleung/FastToG/main.png)
+## How to run
 1. for graph2text mode, please download: https://drive.google.com/file/d/1812Hy9eMHa_h7dQn70N6eQAmKR_x7WDH/view?usp=sharing
 2. for you query and entity:
 python3 fasttog.py \
