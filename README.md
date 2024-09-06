@@ -7,12 +7,12 @@
 3. Given query and the subjectival entity:
 
 python fasttog.py \ <br />
---query *What is the climate of the area where Pennsylvania Convention Center belong ?* \ <br />
---entity *Pennsylvania Convention Center* \ <br />
+--query *"What is the climate of the area where Pennsylvania Convention Center belong ?"* \ <br />
+--entity *"Pennsylvania Convention Center"* \ <br />
 --llm_api *https://xxxx* \ <br />
 --llm_api_key *xxxx* \ <br />
 --llm_model *gpt-4o-mini* \ <br />
---graph2text_path *Path of Graph2Text Model* \ <br />
+--graph2text_path *Path_of_Graph2Text_Model* \ #T2T mode is default <br />
 --kg_api *neo4j://xxxx* \ <br />
 --kg_user *xxxx* \ <br />
 --kg_pw *xxxx* \ <br />
