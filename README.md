@@ -7,7 +7,7 @@
 3. Given query and the subjectival entity:
 
 ```
-python FastTog.py \
+python fasttog.py \
 --query "What is the climate of the area where Pennsylvania Convention Center belong ?" \
 --entity "Pennsylvania Convention Center" \
 --base_path . \
