@@ -33,5 +33,5 @@ Status.OK <br />
 humid continental climate <br />
 please see the folder 'Pennsylvania\_Convention\_Center-1725603642' for more detail. <br />
 
-The 'visulize.png' for solving this query is:
+*The 'visulize.png' for solving this query is:*
 ![visulize](./visulize.png)
