@@ -40,3 +40,6 @@ please see the folder 'Pennsylvania\_Convention\_Center-1725603642' for more det
 
 *The 'visulize.png' for solving this query is:*
 ![visulize](./visulize.png)
+
+## Claims
+This project uses the Apache 2.0 protocol. The project assumes no legal responsibility for any of the model's output and will not be held liable for any damages that may result from the use of the resources and output.
