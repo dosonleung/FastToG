@@ -1,6 +1,11 @@
-# FastToG: Wider, Deeper and Faster ToG
-## Implement of FastToG
+# FastToG: Wider, Deeper and Faster Think on Graph
+## Illustration of FastToG
 ![illustration of FastToG](./main.png)
+*Comparison of 1-w 1-d Graph RAG (a), n-w Graph RAG (b), n-d Graph RAG (c) and n-w n-d Graph RAG (d, Ours)*
+
+## A general schema of the FastToG paradigm
+![illustration of FastToG](./pipline.png)
+
 ## How to run
 1. For graph2text mode, please download: https://drive.google.com/file/d/1812Hy9eMHa_h7dQn70N6eQAmKR_x7WDH/view?usp=sharing
 2. You can load the neo4j database of Wikidata from here: https://drive.google.com/file/d/1Vrdt86zqG2M1apaSAUciuqXx9BwQKd1g/view?usp=sharing
