@@ -765,7 +765,7 @@ if __name__ == "__main__":
 
     case_path = None
     if len(args.base_path) > 0:
-        case_path = args.base_path + '/' + args.entity + '-' + str(int(time.time()))
+        case_path = args.base_path + '/' + args.entity.replace(' ', '_') + '-' + str(int(time.time()))
         if os.path.exists(case_path):
             shutil.rmtree(case_path)
         os.mkdir(case_path)
@@ -786,5 +786,7 @@ if __name__ == "__main__":
         args=args
     )
     kg_cli.close()
-    print('===============================> answer: ')
-    print(status, pred)
+    print(status)
+    print(pred)
+    if case_path:
+        print(f'please see the folder {case_path} for more detail.')
