@@ -1,7 +1,7 @@
 # FastToG: Wider, Deeper and Faster Think on Graph
 ## Illustration of FastToG
 ![illustration of FastToG](./main.png)
-*Comparison of 1-w 1-d Graph RAG (a), n-w Graph RAG (b), n-d Graph RAG (c) and n-w n-d Graph RAG (d, Ours)*
+<p style="text-align:center;">Comparison of 1-w 1-d Graph RAG (a), n-w Graph RAG (b), n-d Graph RAG (c) and n-w n-d Graph RAG (d, Ours)</p>
 
 ## A general schema of the FastToG paradigm
 ![illustration of FastToG](./pipline.png)
@@ -34,8 +34,8 @@ python fasttog.py \
 * **kg_graph_file_name** image name of communities visulization (generated in the base_path)
 
 ## Output
-Status.OK <br />
-humid continental climate <br />
+Status.OK //output status <br />
+humid continental climate //output answer <br />
 please see the folder 'Pennsylvania\_Convention\_Center-1725603642' for more detail. <br />
 
 *The 'visulize.png' for solving this query is:*
