@@ -25,20 +25,24 @@ python fasttog.py \
 --kg_graph_file_name visulize \
 --community_max_size 4
 ```
-
-## Important Arguments
+## Arguments
 * **query** question you want to ask
 * **entity** subjectival entity of you question. You should check the entity exist in the KG before running the script
 * **base_path** path for the files of solution
 * **graph2text_path** path for your download or pretained graph2text model. If none, T2T mode will be adopted.
 * **kg_graph_file_name** image name of communities visulization (generated in the base_path)
 
-## Output
-Status.OK //output status <br />
-humid continental climate //output answer <br />
-please see the folder 'Pennsylvania\_Convention\_Center-1725603642' for more detail. <br />
+## Testcase
+### Input
+**query**: "What is the climate of the area where Pennsylvania Convention Center belong ?" <br />
+**entity**: "Pennsylvania Convention Center" <br />
 
-*The 'visulize.png' for solving this query is:*
+### Output
+**status**: Status.OK <br />
+**answer**:humid continental climate <br />
+
+## Visualize
+The visulize.png in the path 'Pennsylvania\_Convention\_Center-1725603642' for solving this query is:
 ![visulize](./visulize.png)
 
 ## Claims
