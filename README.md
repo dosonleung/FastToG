@@ -1,5 +1,9 @@
 # FastToG: Wider, Deeper and Faster Think on Graph
 ## --_Let's think community by community!_
+
+## News!
+Our paper is accepted by AAAI 2025 👏👏👏.
+
 ## Illustration of FastToG
 ![illustration of FastToG](./main.png)
 <p style="text-align:center;">Comparison of 1-w 1-d Graph RAG (a), n-w Graph RAG (b), n-d Graph RAG (c) and n-w n-d Graph RAG (d, Ours)</p>
