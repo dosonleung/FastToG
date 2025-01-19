@@ -2,7 +2,7 @@
 ## --_Let's think community by community!_
 
 ## News!
-Our paper is accepted by AAAI 2025 👏👏👏.
+Our paper is accepted by AAAI 2025 👏👏👏. (surprising, it is accepted as ORAL!!!)
 
 ## Illustration of FastToG
 ![illustration of FastToG](./main.png)
