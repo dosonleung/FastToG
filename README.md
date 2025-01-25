@@ -5,7 +5,7 @@
 Our paper is accepted by AAAI 2025 👏👏👏. (surprising, it is accepted as ORAL!!!)
 
 ## 📜Poster
-![illustration of FastToG](./FastToG_Poster.pdf)
+![illustration of FastToG](./FastToG_Poster.png)
 
 ## 🏇🏻How to run
 1. For graph2text mode, please download the model(T5 sft): https://drive.google.com/file/d/1812Hy9eMHa_h7dQn70N6eQAmKR_x7WDH/view?usp=sharing
