@@ -18,12 +18,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dosonleung/FastToG)
 
 </div>
-## --_Let's think community by community!_
+
+## 💡Let's think community by community!_
 
 ## 📰News!
-Our paper is accepted by AAAI 2025 👏👏👏. (surprising, it is accepted as ORAL!!!)
+Our paper is accepted by AAAI 2025 👏👏👏. (ORAL!!!)
 
-## 📜Poster
+## Introduction
+Retrieval-Augmented Generation (RAG) enhances LLMs by integrating external knowledge, but earlier methods face limitations. Naive RAG, relying on vector similarity, struggles with low precision, recall, and explainability due to embedding ambiguities. Graph-based RAG (GRAG) improves reasoning using knowledge graphs but suffers from computational inefficiency in n-d methods and reduced recall in dense graphs for n-w approaches (\ref{fig:main2}). To address these, Fast Think-on-Graph (FastToG) introduces a novel n-d n-w paradigm, reasoning \textbf{``community by community"} via local community detection and pruning. FastToG improves accuracy, speeds up reasoning, and enhances explainability by converting graph structures into text for LLMs, outperforming prior methods. FastToG exhibited the following advantages:
 ![illustration of FastToG](./FastToG_Poster.jpg)
 
 ## 🏇🏻How to run
