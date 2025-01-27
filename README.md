@@ -1,4 +1,23 @@
-# 🚀FastToG: Wider, Deeper and Faster Think on Graph
+<div align="center">
+    <h1>Fast Think-on-Graph: Wider, Deeper and Faster
+      Reasoning of Large Language Model on Knowledge Graph</h1>
+    <div>
+        <a href='https://scholar.google.com/citations?user=BDYNU9MAAAAJ' target='_blank'>Xujian Liang</a><sup>1,2</sup>&emsp;
+        <a href='https://scholar.google.com/citations?user=gtth-roAAAAJ' target='_blank'>Zhaoquan Gu</a><sup>2,3</sup>&emsp;
+    </div>
+    <div>
+        <sup>1</sup>School of Cyberspace Security, Beijing University Of Posts And Telecommunications<br><sup>2</sup>Department of New Networks, Peng Cheng Laboratory<br><sup>3</sup>Harbin Institute of Technology (Shenzhen)
+    </div>
+
+</div>
+<div align="center">
+
+[![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2501.14300)
+[![Website](https://img.shields.io/badge/Poster-Link-blue)](https://github.com/dosonleung/FastToG/blob/main/FastToG_Poster.jpg)
+[![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dosonleung/FastToG)
+
+</div>
 ## --_Let's think community by community!_
 
 ## 📰News!
